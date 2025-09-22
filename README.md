@@ -10,7 +10,7 @@ This dashboard provides a comprehensive analysis of the performance of three cof
 <a href ="Coffee Shop Sales Analysis(Project).xlsx">Coffee Shop Sales Analysis(Project)</a>
 
 ## Tool Used  
-<img src="Screenshots/microsoft-excel.png" width="200" height="100"/>&nbsp; 🧑‍💻
+<img src="https://github.com/akash250298/Coffee_sales_Analysis/blob/main/Dashboard%20Screenshot/microsoft-excel.png" width="200" height="100"/>&nbsp; 🧑‍💻
 
 ## Key Insights  
 * 🚀 **Consistent Revenue Growth:** Revenue has been continuously growing, indicating steady customer interest and successful business operations.
