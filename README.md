@@ -30,6 +30,6 @@ This dashboard provides a comprehensive analysis of the performance of three cof
 * 🕵️‍♂️ Regularly monitor product performance at each store to quickly adapt to changing customer preferences.
 
 ## Dashboard Visualization  
-<img src="Screenshots/Dashboard.png" width="3200" height="500"/>&nbsp;
+<img src="https://github.com/akash250298/Coffee_sales_Analysis/blob/main/Dashboard%20Screenshot/Dashboard1.png" width="3200" height="500"/>&nbsp;
 
 # Coffee_sales_Analysis
